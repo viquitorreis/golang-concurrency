@@ -1,7 +1,5 @@
 package main
 
-package main
-
 // Mock Chamadas asíncronas e sincronização de dados
 
 // package main
